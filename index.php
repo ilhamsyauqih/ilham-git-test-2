@@ -8,5 +8,9 @@
 <body>
     <h1>Hello World</h1>
     <h2>Nama Saya Ilham</h2>
+    <ul>
+        <li>List 1</li>
+        <li>list 2</li>
+    </ul>
 </body>
 </html>
